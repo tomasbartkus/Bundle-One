@@ -1,7 +1,7 @@
 {
   "name": "tbh24/bundle-one",
   "description": "Bundle one",
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "license": "proprietary",
   "authors": [
     {
